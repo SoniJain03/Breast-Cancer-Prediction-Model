@@ -20,8 +20,6 @@ The app is built using **Streamlit** and uses **Logistic Regression** as the cla
 ## Project Files
 
 | File Name                 | Description                                     |
-|---------------------------|-------------------------------------------------|
-| `.py`                  | Streamlit frontend for user input and output   |
 | `modelbreast.joblib`      | Trained Logistic Regression model              |
 | `requirements.txt`        | List of Python libraries used                  |
 | `README.md`               | Project overview and usage instructions        |
