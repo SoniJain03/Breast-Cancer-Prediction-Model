@@ -19,22 +19,6 @@ feature_names = [
     "worst compactness", "worst concavity", "worst concave points", "worst symmetry", "worst fractal dimension"
 ]
 
-# Custom CSS
-st.markdown("""
-    <style>
-    .stButton > button {
-        background-color: #ff4b4b;
-        color: white;
-        font-weight: bold;
-        border-radius: 8px;
-        padding: 10px 24px;
-    }
-    .stButton > button:hover {
-        background-color: #ff3333;
-    }
-    </style>
-""", unsafe_allow_html=True)
-
 # Sidebar
 st.sidebar.title("🔍 About This App")
 st.sidebar.info("""
